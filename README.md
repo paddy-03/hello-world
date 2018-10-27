@@ -1,3 +1,3 @@
 # hello-world
 
-This is Swarup here, my first repository!
+This is Paddy here, my first repository.
